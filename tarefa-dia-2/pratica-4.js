@@ -14,8 +14,8 @@ let perfumeImposto = 200 * 1.2
 
 let produto3 = "camiseta"
 let valor3 = 100.00
-let nacionalidade3 = "internacional"
-let sandaliaImposto = 120 * 1.2
+let nacionalidade3 = "nacional"
+let sandaliaImposto = 120 * 1.22
 
 console.log('Produto numero 1: '+produto1+', valor: '+valor1+', nacionalidade: '+nacionalidade1+', total com imposto: '+camisetaImposto+'')
 
